@@ -105,3 +105,4 @@ Start-Process java -ArgumentList '-jar', 'C:\path\to\your\project\target\spring-
 ```
 
 This will keep the application running even if you close the PowerShell window.
+#new
